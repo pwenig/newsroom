@@ -1,0 +1,3 @@
+# newsroom
+
+Sample Meteor App
